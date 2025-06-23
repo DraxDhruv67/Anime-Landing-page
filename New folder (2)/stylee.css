@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-origin: padding-box;
+
+}
+
+div
+{
+    background-color: black;
+    align-items: center;
+    font-size: large;
+
+}
+
+header
+{
+    display: flex;
+}
+
+a{
+    color: white;
+}
